@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\bin\Debug\netcoreapp3.1\POO-Polimorfismo.exe
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\bin\Debug\netcoreapp3.1\POO-Polimorfismo.deps.json
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\bin\Debug\netcoreapp3.1\POO-Polimorfismo.runtimeconfig.json
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\bin\Debug\netcoreapp3.1\POO-Polimorfismo.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\bin\Debug\netcoreapp3.1\POO-Polimorfismo.dll
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\bin\Debug\netcoreapp3.1\POO-Polimorfismo.pdb
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\obj\Debug\netcoreapp3.1\POO-Polimorfismo.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\obj\Debug\netcoreapp3.1\POO-Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\obj\Debug\netcoreapp3.1\POO-Polimorfismo.AssemblyInfo.cs
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\obj\Debug\netcoreapp3.1\POO-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\obj\Debug\netcoreapp3.1\POO-Polimorfismo.dll
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\obj\Debug\netcoreapp3.1\POO-Polimorfismo.pdb
+C:\Users\dev\Desktop\Projeto-POO-Polimorfismo\POO-Polimorfismo\obj\Debug\netcoreapp3.1\POO-Polimorfismo.genruntimeconfig.cache
